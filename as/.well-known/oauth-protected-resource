@@ -1,6 +1,0 @@
-{
- "resource": "https://reflect.example/mcp",
- "authorization_servers": [
-  "https://cdn.jsdelivr.net/gh/ZararSW/mcp-oauth-probe@main/as"
- ]
-}
